@@ -8,5 +8,5 @@ A lightweight Windows application that allows users to launch and manage multipl
 - Sandbox setups
 - Running multiple isolated sessions of the same executable
 
-for more info follow
-- [Youtube Page]([https://pages.github.com/](https://www.youtube.com/channel/UCehHDRw13zwHfHugmTZJNBA)).
+for more info follow 
+[Youtube](https://www.youtube.com/@xoci-adv)
