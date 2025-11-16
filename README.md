@@ -1,15 +1,10 @@
 **🚀 Features**
 **🔁 Multiboxing**
-
-Launch and control multiple game instances simultaneously
-
-Bypasses the usual “game already running” limitation
-
-Allows each instance to run independently
-
-Custom process naming to avoid duplicate detection
-
-Easy management through a clean user interface
+- Launch and control multiple game instances simultaneously
+- Bypasses the usual “game already running” limitation
+- Allows each instance to run independently
+- Custom process naming to avoid duplicate detection
+- Easy management through a clean user interface
 
 **⚙️ Automation / Auto-Farm**
 Automated clicking, key-presses, and movement
